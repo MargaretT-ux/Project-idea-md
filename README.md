@@ -1,2 +1,2 @@
-# Project-idea-md
-# Notes for Projects - Try building a small calculator in Python. - Clean messy Excel data with Python pandas. 
+# hello.py
+print("Hello GitHub! Today's commit counts!") 
